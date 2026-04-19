@@ -6,30 +6,7 @@
 
 ## 📖 Sobre o projeto
 
-Este projeto tem como objetivo aplicar na prática os conceitos aprendidos em aula, como:
-
-- Estruturação de páginas web  
-- Estilização com CSS  
-- Lógica com JavaScript  
-- Organização de código  
-
----
-
-## 🚀 Funcionalidades
-
-- 📄 Interface web funcional  
-- 🎨 Layout estilizado  
-- ⚡ Interações com JavaScript  
-- 📱 Estrutura preparada para evolução  
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- Git e GitHub  
+Este projeto tem como objetivo aplicar na prática conceitos de **banco de dados** e **programação assíncrona**, atualizando o código para utilizar **async/await** e melhorar o fluxo das operações.
 
 ---
 
@@ -38,12 +15,26 @@ Este projeto tem como objetivo aplicar na prática os conceitos aprendidos em au
 - 👨‍💻 **Helder Virissio**  
 - 👨‍💻 **Michael Douglas Silva**  
 - 👨‍💻 **Leonardo Fernandez Ribeiro**  
-- 👩‍💻 **Yasmin Rodrigues de Andrade**  
+- 👩‍💻 **Yasmin Rodrigues de Andrade**
 
 ---
 
-## 🎯 Objetivo acadêmico
+## 🚀 Funcionalidades
 
-Este projeto foi desenvolvido com foco em aprendizado e prática dos conceitos de desenvolvimento web.
+- 📄 Interface web funcional  
+- 🗄️ Integração com banco de dados  
+- ⚡ Operações assíncronas com async/await  
+- 🔄 Manipulação de dados (inserção, consulta, etc.)  
+- 📱 Estrutura preparada para evolução  
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript (Async/Await)  
+- Banco de Dados (MySQL / PostgreSQL)  
+- Git e GitHub  
 
 ---
