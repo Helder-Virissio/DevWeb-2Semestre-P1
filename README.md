@@ -34,7 +34,7 @@ Este projeto tem como objetivo aplicar na prática conceitos de **banco de dados
 - HTML5  
 - CSS3  
 - JavaScript (Async/Await)  
-- Banco de Dados (MySQL / PostgreSQL)  
+- Banco de Dados (MySQL) 
 - Git e GitHub  
 
 ---
