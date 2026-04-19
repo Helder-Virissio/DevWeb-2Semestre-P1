@@ -15,7 +15,7 @@ Este projeto tem como objetivo aplicar na prática conceitos de **banco de dados
 - 👨‍💻 **Helder Virissio**  — https://github.com/Helder-Virissio  
 - 👨‍💻 **Michael Douglas Silva**  
 - 👨‍💻 **Leonardo Fernandez Ribeiro**  
-- 👩‍💻 **Yasmin Rodrigues de Andrade** — =https://github.com/yasminandrade8
+- 👩‍💻 **Yasmin Rodrigues de Andrade** — https://github.com/yasminandrade8
 
 ---
 
